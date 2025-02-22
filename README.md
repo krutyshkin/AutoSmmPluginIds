@@ -1,0 +1,2 @@
+# AutoSmmPluginIds
+Update ids.txt
